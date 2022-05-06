@@ -1,0 +1,17 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Test Application</string>
+    <string name="check_connection">Check Connection</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="forgot_password">Forgot Password</string>
+    <string name="log_in_screen">Log In Screen</string>
+    <string name="sign_up_screen">Sign Up Screen</string>
+    <string name="forgot_password_screen">Forgot Password Screen</string>
+    <string name="connection_error">Connection error</string>
+    <string name="connection">Connection</string>
+    <string name="connection_established">Connection established</string>
+    <string name="network_status">Network status</string>
+    <string name="message_send">Message Send</string>
+    <string name="message_commands">Send Commands</string>
+    <string name="ok" tools:ignore="PrivateResource">OK</string>
+
+</resources>
